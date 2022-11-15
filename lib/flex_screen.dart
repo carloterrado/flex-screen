@@ -28,7 +28,7 @@ class FlexScreen extends StatelessWidget {
             padding: EdgeInsets.all(1.0),
             children: <Widget>[
               Container(
-                height: 50,
+                height: 100,
                 child: DrawerHeader(
                   decoration: BoxDecoration(
                     color: Colors.blue,
